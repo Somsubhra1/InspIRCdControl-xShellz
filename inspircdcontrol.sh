@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # InspIRCd-Panel provision script, written by Som
 set -e
